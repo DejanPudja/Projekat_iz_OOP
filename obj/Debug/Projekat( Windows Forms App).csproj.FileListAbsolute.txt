@@ -1,0 +1,9 @@
+C:\Users\dejan\source\repos\Projekat( Windows Forms App)\Projekat( Windows Forms App)\obj\Debug\Projekat( Windows Forms App).csprojAssemblyReference.cache
+C:\Users\dejan\source\repos\Projekat( Windows Forms App)\Projekat( Windows Forms App)\obj\Debug\Projekat__Windows_Forms_App_.Form1.resources
+C:\Users\dejan\source\repos\Projekat( Windows Forms App)\Projekat( Windows Forms App)\obj\Debug\Projekat__Windows_Forms_App_.Properties.Resources.resources
+C:\Users\dejan\source\repos\Projekat( Windows Forms App)\Projekat( Windows Forms App)\obj\Debug\Projekat( Windows Forms App).csproj.GenerateResource.cache
+C:\Users\dejan\source\repos\Projekat( Windows Forms App)\Projekat( Windows Forms App)\bin\Debug\Projekat( Windows Forms App).exe.config
+C:\Users\dejan\source\repos\Projekat( Windows Forms App)\Projekat( Windows Forms App)\bin\Debug\Projekat( Windows Forms App).exe
+C:\Users\dejan\source\repos\Projekat( Windows Forms App)\Projekat( Windows Forms App)\bin\Debug\Projekat( Windows Forms App).pdb
+C:\Users\dejan\source\repos\Projekat( Windows Forms App)\Projekat( Windows Forms App)\obj\Debug\Projekat( Windows Forms App).exe
+C:\Users\dejan\source\repos\Projekat( Windows Forms App)\Projekat( Windows Forms App)\obj\Debug\Projekat( Windows Forms App).pdb
